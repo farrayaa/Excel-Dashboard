@@ -1,4 +1,4 @@
-# Excel Dashboards Collection 📊
+# Excel Project Collection 📊
 
 This repository contains various Excel dashboards I have created, covering the full data processing workflow, from data cleaning to visualization. The data used in these dashboards was generated from various sources.
 
