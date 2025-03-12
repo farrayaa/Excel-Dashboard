@@ -23,5 +23,6 @@ Data visualization and analysis using **BPS data** in **Microsoft Excel**, with 
 - **Infographic (PNG/PDF)** – Visual summary
 
 ### Infographic  
-![Infographic](Fertilizer Availability and Agricultural Productivity in East Java.png)  
+![Infographic](Fertilizer%20Availability%20and%20Agricultural%20Productivity%20in%20East%20Java.png)  
+
 
